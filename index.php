@@ -18,24 +18,19 @@
             <div class="wrap">
 
                 <header>
-                    <a href="index.html" title="Página inicial"><img src="/img/EQUIPE_Cyberpunk-removebg-preview.png"
+                    <a href="index.php" title="Página inicial"><img src="/img/EQUIPE_Cyberpunk-removebg-preview.png"
                             alt="Logotipo de Cyberpunk Games "></a>
-                    <h1><a href="index.html"> Cyberpunk Games</a><small>Encontre o mundo dos Games Aqui</small></h1>
+                    <h1><a href="index.php"> Cyberpunk Games</a><small>Encontre o mundo dos Games Aqui</small></h1>
                 </header>
                 <nav id="menu">
 
-                    <a href="/" title="Página inicial">
+                    <a href="/index.php" title="Página inicial">
                         <i class="fa-solid fa-house fa-fw"></i>
                         <span>Início</span>
                     </a>
-                    <a href="./contatos/contato.html" title="Faça contato">
+                    <a href="contato.php" title="Faça contato">
                         <i class="fa-solid fa-comments fa-fw"></i>
                         <span>Contatos</span>
-
-                        <a href="/about" title="Sobre...">
-                            <i class="fa-solid fa-circle-info fa-fw"></i>
-                            <span>Sobre</span>
-                        </a>
                     </a>
                     <div class="dropdown">
                         <button class="dropbtn">Computador</button>

@@ -38,7 +38,7 @@ echo '<div> Usuario cadastrado </div>';
                 <header>
                     <a href="index.php" title="Página inicial"><img src="/img/EQUIPE_Cyberpunk-removebg-preview.png"
                             alt="Logotipo de Cyberpunk Games "></a>
-                    <h1><a href="index.html"> Cyberpunk Games</a><small>Encontre o mundo dos Games Aqui</small></h1>
+                    <h1><a href="index.php"> Cyberpunk Games</a><small>Encontre o mundo dos Games Aqui</small></h1>
                 </header>
 
                 <nav id="menu">
@@ -47,29 +47,20 @@ echo '<div> Usuario cadastrado </div>';
                         <i class="fa-solid fa-house fa-fw"></i>
                         <span>Início</span>
                     </a>
-                    <a href="./contatos/contato.html" title="Faça contato">
+                    <a href="contato.php" title="Faça contato">
                         <i class="fa-solid fa-comments fa-fw"></i>
                         <span>Contatos</span>
                     </a>
-                    <a href="/cobrança.html" title="cobrança">
-                        <i class="fa-solid fa-circle-info fa-fw"></i>
-                        <span>cobrança</span>
-                    </a>
+
 
                     <div class="dropdown">
-                        <button class="dropbtn">Dropdown</button>
+                        <button class="dropbtn">Computador</button>
                         <div class="dropdown-content">
-                            <a href="#">Link 1</a>
-                            <a href="#">Link 2</a>
-                            <a href="#">Link 3</a>
+                            <a href="#">Steam</a>
+                            <a href="#">Origin</a>
+                            <a href="#">EA Play</a>
                         </div>
                     </div>
-                    <a href="/about" title="Sobre...">
-                        <i class="fa-solid fa-circle-info fa-fw"></i>
-                        <span>Sobre</span>
-                    </a>
-
-
                     <div id="usuario">
                         <a href="/login.php" title="Logue-se...">
                             <i class="fa-solid fa-user fa-fw"></i>
